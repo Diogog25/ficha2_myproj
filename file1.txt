@@ -1,0 +1,3 @@
+Este é um exeplo de um ficheiro de texto 1i
+Fiz uma alteração 
+dentro do ficheiro
